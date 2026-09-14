@@ -11,7 +11,6 @@ function App(){
 
   <main class="max-w-2xl mx-auto px-6 py-10">
 
-    {/* <!-- Replace everything below with your own details. --> */}
 
     <section class="mb-10">
       <h2 class="text-xl font-semibold mb-3">About</h2>
@@ -62,6 +61,10 @@ function App(){
   )
 }
 export default App
+
+
+
+
 
 
 
